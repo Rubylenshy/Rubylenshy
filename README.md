@@ -1,6 +1,8 @@
 <div align="center">
 
-  ## Hi there 👋
+  <img src="profile.png"></img>
+  
+  <h4>📍 Ibadan, Nigeria | 📰 Almost 2 years experience | ✒️ Freelancer @frontend-development </h4>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/reuben-tomoloju-96348b241/">
@@ -50,7 +52,7 @@ Tech and Sports |
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubylenshy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Credentials
+#### Communities
 
 #### Areas of Interests
 
