@@ -3,16 +3,16 @@
   ## Hi there 👋
   
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/reuben-tomoloju-96348b241/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="github-URL">
+  <a href="https://github.com/Rubylenshy">
     <img src="https://img.shields.io/badge/GITHUB-git-lightgrey?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/tomoloj_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="your-frontendmentor-URL">
+    <a href="https://www.frontendmentor.io/profile/Rubylenshy">
     <img src="https://img.shields.io/badge/frontendmentor-blueviolet?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor Badge"/>
   </a>
 </div>
@@ -44,7 +44,7 @@ Tech and Sports |
 ### 🧮 My Statistics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rubylenshy&theme=dark)](https://git.io/streak-stats)
-![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubylenshy&show_icons=true&theme=radical)
+<!-- ![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubylenshy&show_icons=true&theme=radical) -->
 
 #### 🔈Top Languages
 
