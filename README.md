@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="profile.png"></img>
+  <img src="images/profile.png"></img>
   
   <h4>📍 Ibadan, Nigeria | 📰 Almost 2 years experience | ✒️ Freelancer @frontend-development </h4>
   
