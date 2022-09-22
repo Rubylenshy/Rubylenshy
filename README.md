@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/profile.png"></img>
+  <img src="images/profile (2).png"></img>
   
   <h4>📍 Ibadan, Nigeria | 📰 Almost 2 years experience | ✒️ Freelancer @frontend-development </h4>
   
@@ -26,7 +26,7 @@
 
 #### About
 
-Tech and Sports | 
+Tech and Sport | Frontend Developer | Making contributions to communities in building problem-solving products 
 
 <!-- #### 🌱 I’m currently learning ...
 #### 👯 I’m looking to collaborate on ... -->
@@ -57,10 +57,11 @@ Tech and Sports |
 #### Areas of Interests
 
 <div>
-  <img src="https://img.shields.io/badge/Fullstack%20Development-B77020?style=flat-square&logo=appveyor" alt="area">
-  <img src="https://img.shields.io/badge/React%20Developer-3353FF?style=flat-square&logo=appveyor" alt="area">
-  <img src="https://img.shields.io/badge/Blockchain-brightgreen?style=flat-square&logo=appveyor" alt="area">
-  <img src="https://img.shields.io/badge/Finance-A730E3?style=flat-square&logo=appveyor" alt="area">
-  <img src="https://img.shields.io/badge/Available%20To%20Collaborate-E33030?style=flat-square&logo=appveyor" alt="area">
-  <img src="https://img.shields.io/badge/Software%20Engineering-11879C?style=flat-square&logo=appveyor" alt="area">
+  <img src="https://img.shields.io/badge/🚀%20Fullstack%20Development-B77020?style=flat-square" alt="area">
+  <img src="https://img.shields.io/badge/⚓%20React%20Developer-3353FF?style=flat-square" alt="area">
+  <img src="https://img.shields.io/badge/🛑%20Blockchain-brightgreen?style=flat-square" alt="area">
+  <img src="https://img.shields.io/badge/💹%20Finance-A730E3?style=flat-square" alt="area">
+  <img src="https://img.shields.io/badge/🧑‍🤝‍🧑%20Available%20To%20Collaborate-E33030?style=flat-square" alt="area">
+  <img src="https://img.shields.io/badge/📲%20Software%20Engineering-11879C?style=flat-square" alt="area">
+  <img src="https://img.shields.io/badge/✒️%20Mentorship-199783?style=flat-square" alt="area">
 </div>
