@@ -2,7 +2,7 @@
 
   <img src="images/profile (2).png"></img>
   
-  <h4>📍 Ibadan, Nigeria | 📰 Almost 2 years experience | ✒️ Freelancer @frontend-development </h4>
+  <h4>📍 Nigeria | 📰 Almost 2 years experience | ✒️ Freelancer @frontend-development </h4>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/reuben-tomoloju-96348b241/">
