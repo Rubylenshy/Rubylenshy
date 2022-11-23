@@ -5,16 +5,16 @@
   <h4>📍 Nigeria | 📰 2 years experience | ✒️ Freelancer @frontend-development </h4>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/reuben-tomoloju-96348b241/">
+  <a href="https://www.linkedin.com/in/reuben-tomoloju-96348b241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Rubylenshy">
+  <a href="https://github.com/Rubylenshy" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-git-lightgrey?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/tomoloj_">
+  <a href="https://twitter.com/tomoloj_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.frontendmentor.io/profile/Rubylenshy">
+    <a href="https://www.frontendmentor.io/profile/Rubylenshy" target="_blank">
     <img src="https://img.shields.io/badge/frontendmentor-blueviolet?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor Badge"/>
   </a>
 </div>
