@@ -45,8 +45,7 @@ Tech in Web and Mathematics | Frontend Developer | Making contributions to commu
 
 ### 🧮 My Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rubylenshy&theme=dark)](https://git.io/streak-stats)
-<!-- ![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubylenshy&show_icons=true&theme=radical) -->
+![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubylenshy&show_icons=true&theme=radical)
 
 #### 🔈Top Languages
 
