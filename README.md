@@ -46,6 +46,7 @@ Tech in Web and Mathematics | Frontend Developer | Making contributions to commu
 ### 🧮 My Statistics
 
 ![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubylenshy&show_icons=true&theme=radical)
+<a href="https://app.daily.dev/rubylenshy"><img src="https://api.daily.dev/devcards/ece32092afdf42b1a44b44e108ceadc1.png?r=7tk" width="400" alt="Reuben Tomoloju's Dev Card"/></a>
 
 #### 🔈Top Languages
 
