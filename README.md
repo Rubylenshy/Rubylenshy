@@ -1,6 +1,4 @@
 <div align="center">
-
-  <img src="images/profile (2).png"></img>
   
   <h4>📍 Nigeria | 📰 3 years experience | ✒️Front-End Developer  @Plugli LLC </h4>
   
