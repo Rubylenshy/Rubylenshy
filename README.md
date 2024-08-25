@@ -24,7 +24,7 @@
 
 #### About
 
-Tech in Web and Mathematics | Frontend Developer | Making contributions to communities in building problem-solving products 
+Tech in Web and Mathematics | Frontend Developer | Contributing to communities by developing problem-solving products
 
 <!-- #### 🌱 I’m currently learning ...
 #### 👯 I’m looking to collaborate on ... -->
