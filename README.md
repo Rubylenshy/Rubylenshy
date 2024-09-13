@@ -17,7 +17,7 @@
     <a href="https://github.com/rubylenshy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
     <a href="https://github.com/rubylenshy?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-php-777BB4?style=flat-square&logo=PHP&logoColor=white"></a>
     <a href="https://github.com/rubylenshy?tab=repositories&language=react" target="_blank"><img alt="React" src="https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=React&logoColor=black"></a>
-
+    <a href="https://github.com/rubylenshy?tab=repositories&language=scss" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-scss-CC6699?style=flat-square&logo=Sass&logoColor=white"></a>
 </p>
 
 <p align="center">
