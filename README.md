@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://github.com/Rubylenshy" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/reuben-tomoloju" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-    <a href="https://twitter.com/tomoloj_" target="_blank"><img alt="X" src="https://img.shields.io/badge/-X(Twitter)-000000?style=flat-square&logo=Twitter&logoColor=white"></a>
+    <a href="https://twitter.com/tomoloj_" target="_blank"><img alt="X" src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white"></a>
     <a href="mailto:reztomoloju@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
     <a href="https://www.frontendmentor.io/profile/Rubylenshy" target="_blank"><img alt="Frontend Mentor" src="https://img.shields.io/badge/-Frontend%20Mentor-0D96F2?style=flat-square&logo=FrontendMentor&logoColor=white"></a>
 </a>
