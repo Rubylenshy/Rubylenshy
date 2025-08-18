@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="images/black-email-header-new.png" alt="Reuben Oluwafemi" />
+  <img src="images/black-image-header-new.png" alt="Reuben Oluwafemi" />
   <!-- <h4>📍 Nigeria | 📰 3 years experience | ✒️Front-End Developer  @Plugli LLC </h4> -->
 
   <p align="center">
