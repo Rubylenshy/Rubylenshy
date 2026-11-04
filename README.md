@@ -1,43 +1,86 @@
-<div align="center">
-  
-  <img src="images/black-image-header-new.png" alt="Reuben Oluwafemi" />
-  <!-- <h4>📍 Nigeria | 📰 3 years experience | ✒️Front-End Developer  @Plugli LLC </h4> -->
-
-  <p align="center">
-    <a href="https://github.com/Rubylenshy" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/reuben-tomoloju" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-    <a href="https://twitter.com/tomoloj_" target="_blank"><img alt="X" src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white"></a>
-    <a href="mailto:reztomoloju@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.frontendmentor.io/profile/Rubylenshy" target="_blank"><img alt="Frontend Mentor" src="https://img.shields.io/badge/-Frontend%20Mentor-0D96F2?style=flat-square&logo=FrontendMentor&logoColor=white"></a>
+<a href="https://www.usereuben.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img alt="Reuben Oluwafemi, Frontend and Plugin Engineer. Bridging the gap between engineering logic and creative design: React interfaces and high-performance WordPress plugins. Currently Frontend Developer at SeamlessTechnologies, based in Nigeria." src="assets/header-dark.svg" width="100%">
+  </picture>
 </a>
-</p>
 
 <p align="center">
-    <a href="https://github.com/rubylenshy?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
-    <a href="https://github.com/rubylenshy?tab=repositories&language=vue" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/-vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"></a>
-    <a href="https://github.com/rubylenshy?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
-    <a href="https://github.com/rubylenshy?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-php-777BB4?style=flat-square&logo=PHP&logoColor=white"></a>
-    <a href="https://github.com/rubylenshy?tab=repositories&language=react" target="_blank"><img alt="React" src="https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=React&logoColor=black"></a>
-    <a href="https://github.com/rubylenshy?tab=repositories&language=scss" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/-scss-CC6699?style=flat-square&logo=Sass&logoColor=white"></a>
+  <a href="https://www.usereuben.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-web-light.svg"><img alt="Website: usereuben.com" src="assets/link-web-dark.svg" height="40"></picture></a>
+  <a href="https://www.linkedin.com/in/reuben-tomoloju/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-linkedin-light.svg"><img alt="LinkedIn" src="assets/link-linkedin-dark.svg" height="40"></picture></a>
+  <a href="https://twitter.com/tomoloj_"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-x-light.svg"><img alt="X / Twitter" src="assets/link-x-dark.svg" height="40"></picture></a>
+  <a href="mailto:reztomoloju@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-email-light.svg"><img alt="Email" src="assets/link-email-dark.svg" height="40"></picture></a>
+  <a href="https://profiles.wordpress.org/reztomoloju/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-wordpress-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-wordpress-light.svg"><img alt="WordPress.org profile" src="assets/link-wordpress-dark.svg" height="40"></picture></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/rubylenshy?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/rubylenshy" target="_blank"><img alt="rubylenshy" src="https://badges.pufler.dev/visits/rubylenshy/rubylenshy?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/rubylenshy/rubylenshy" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/rubylenshy/rubylenshy?label=profile%20updated&style=flat-square"></a>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-capabilities-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-capabilities-light.svg">
+  <img alt="01 — What I do: Capabilities" src="assets/heading-capabilities-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/capabilities-light.svg">
+  <img alt="Plugin Developer: custom WordPress plugins built for performance, security and scalability. Frontend Engineer: production-ready React interfaces. API Integration: third-party integrations that automate workflows. Performance Optimizer: audits and refactoring targeting 90+ Lighthouse scores." src="assets/capabilities-dark.svg" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-experience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-experience-light.svg">
+  <img alt="02 — Career path: Experience" src="assets/heading-experience-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
+  <img alt="Frontend Developer at SeamlessTechnologies (formerly SeamlessHR), April 2026 to present. CMS Plugin Developer at Plugli LLC, August 2023 to April 2026: cut save/load times by 30%. Frontend Intern at SideHustle Nigeria, 2022: reduced checkout steps by 40%. IT Intern at NISER, 2022: Head of Interns, leading a team of 8." src="assets/experience-dark.svg" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-work-light.svg">
+  <img alt="03 — Selected work: Projects" src="assets/heading-work-dark.svg" width="100%">
+</picture>
+
+<p>
+  <a href="https://linksyai.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-linksy-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-linksy-light.svg"><img alt="Linksy: AI internal linking plugin for WordPress" src="assets/project-linksy-dark.svg" width="49%"></picture></a>
+  <a href="https://github.com/Rubylenshy/wp-alchemist-framework"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wp-alchemist-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-wp-alchemist-light.svg"><img alt="wp-alchemist: open-source framework for modern WordPress plugins" src="assets/project-wp-alchemist-dark.svg" width="49%"></picture></a>
+  <a href="https://plugli.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-alttexty-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-alttexty-light.svg"><img alt="AltTexty: AI alt text generation for WordPress media libraries" src="assets/project-alttexty-dark.svg" width="49%"></picture></a>
+  <a href="https://plugli.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-datey-ai-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-datey-ai-light.svg"><img alt="Datey AI: content freshness manager for WordPress" src="assets/project-datey-ai-dark.svg" width="49%"></picture></a>
+  <a href="https://github.com/Rubylenshy/spiritwise"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-spiritwise-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-spiritwise-light.svg"><img alt="SpiritWise: sermon library and daily Bible engagement app" src="assets/project-spiritwise-dark.svg" width="49%"></picture></a>
+  <a href="https://agile-system.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-agile-system-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-agile-system-light.svg"><img alt="Agile System: Kanban project management tool" src="assets/project-agile-system-dark.svg" width="49%"></picture></a>
 </p>
- </div>
-<hr>
 
-#### About
+<br>
 
-Tech in Web and Mathematics | Frontend Developer | Contributing to communities by developing problem-solving products
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-stack-light.svg">
+  <img alt="04 — Toolkit: Stack" src="assets/heading-stack-dark.svg" width="100%">
+</picture>
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rubylenshy&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubylenshy&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="Languages: JavaScript, TypeScript, PHP, Python, HTML, SCSS. Frontend: React, Next.js, Vue, Vite, Tailwind CSS, GSAP, Redux, Zustand. CMS and data: WordPress, WooCommerce, MySQL, Firebase, REST APIs. Tooling: Git, GitHub, Bitbucket, Vercel, Figma, Notion." src="assets/stack-dark.svg" width="100%">
+</picture>
 
+<br><br>
+
+<a href="https://www.usereuben.com/start-a-project">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+    <img alt="Let's build something. Start a project at usereuben.com or email reztomoloju@gmail.com" src="assets/footer-dark.svg" width="100%">
+  </picture>
+</a>
+
+<!-- Artwork is generated from scripts/build_assets.py; edit the data there and re-run it. -->
